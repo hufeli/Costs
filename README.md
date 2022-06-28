@@ -1,2 +1,2 @@
 # costs
- Costs é uma aplicação em ReactJS feita para gerenciamento de projetos.
+ Costs é uma aplicação em ReactJS, que tem como finalidade o gerenciamento de projetos.
